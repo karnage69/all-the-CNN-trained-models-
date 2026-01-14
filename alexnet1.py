@@ -66,7 +66,3 @@ for epochs in range(20):
 print(f"Epoch {epochs+1}: Train Accuracy = {correct/total:.4f}")
 torch.save(model.state_dict(), "alexnet1.pth")
 print("saved")
-
-
-        
-        

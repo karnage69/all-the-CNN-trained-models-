@@ -1,5 +1,4 @@
-data/
-__pycache__/
 *.pth
-*.pt
-
+*.tar.gz
+cifar-100-python/
+__pycache__/
